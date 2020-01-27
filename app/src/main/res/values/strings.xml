@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Volumenes</string>
+    <string name="Esfera">Esfera</string>
+    <string name="Cubo">Cubo</string>
+    <string name="Cono">Cono</string>
+    <string name="Lado">Lado</string>
+    <string name="Radio">Radio</string>
+    <string name="Altura">Altura</string>
+    <string name="Volumen">Volumen</string>
+    <string name="Calculo">Calculo Volumen</string>
+</resources>
